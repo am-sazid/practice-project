@@ -116,3 +116,41 @@
     top: 2020px;
     left: 160px;
 }
+
+/* footer section style */
+.footer-container{
+    display: flex;
+    gap: 217px;
+    color: #ffffff;
+    background: #000000;
+    margin-top: 113px;
+    padding: 130px 200px;
+}
+.about{
+    text-align: justify;
+    width: 40%;
+}
+.Subscribe{
+    border-radius: 5px;
+    background: #ffffff;
+    border: 0;
+    color: rgb(240, 124, 47);
+    font-size: 13px;
+    font-weight: 700;
+    padding: 13px 30px;
+    margin-top: 10px;
+    /* margin-left: 120px; */
+}
+.email{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #fff7f7;
+    border-radius: 5px;
+    background: #000000;
+    border:1px solid beige;
+    width: 100%;
+}
+/* .form{
+    width: 20%;
+} */
